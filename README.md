@@ -1,20 +1,52 @@
-
-<center><img src=# width="auto" height="200px" /></center>
-최수진입니다.<br/><br/>
-<br/><br/>
+<div align="center">
+🍅
 
 <br/>
 <br/>
-<a href="https://github.com/neulrain" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>&nbsp;
-<a href="https://twitter.com/leeaebon" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>&nbsp;
-
-<br/>
+  
+![tahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=neulrain&show_icons=true&theme=transparent&title_color=ef4444&text_color=65a30d&icon_color=ef4444)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fneulrain%2F&count_bg=%23FF7070&title_bg=%23575757&icon=github.svg&icon_color=%23FFFFFF&title=watch&edge_flat=true)](https://hits.seeyoufarm.com)
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7Df1E?style=flat&logo=JavaScript&logoColor=white"/><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+
+</div>
+
+<br/>
+
+<hr />
+
+
+### 🛠사용언어
+
+<div>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white" style="margin: 10px;"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" style="margin: 10px;"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flate&logo=JavaScript&logoColor=white" style="margin: 10px;"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" style="margin: 10px;"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" style="margin: 10px;"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" style="margin: 10px;"/>
+<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" style="margin: 10px;"/>
+
+<br/>
+<br/>
+
+### ✨Styling & Util
+
+<img src="https://img.shields.io/badge/Sass-cc6699?style=flat&logo=Sass&logoColor=white" style="margin: 10px;"/>
+<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white" style="margin: 10px;"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" style="margin: 10px;"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" style="margin: 10px;"/>
+
+
+</div>
+
+<br/>
+
+### 🦋SNS
+
+<a href="https://bsky.app/profile/tahan00.bsky.social" target="_blank">
+<img src=https://img.shields.io/badge/bluesky-0285FF.svg?&style=flat&logo=bluesky&logoColor=white alt=bluesky style="margin-bottom: 5px;" />
+</a>
+
+<br/>
