@@ -31,7 +31,7 @@
 <br/>
 <br/>
 
-### ✨Styling & Util
+### ✨Styling & Devops
 
 <img src="https://img.shields.io/badge/Sass-cc6699?style=flat&logo=Sass&logoColor=white" style="margin: 10px;"/>
 <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white" style="margin: 10px;"/>
