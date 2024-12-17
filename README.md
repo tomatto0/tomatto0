@@ -16,7 +16,7 @@
 <hr />
 
 
-### 🛠사용언어
+### 🛠Language
 
 <div>
 
@@ -43,10 +43,14 @@
 
 <br/>
 
-### 🦋SNS
+### 🦋Contact
 
-<a href="https://bsky.app/profile/tahan00.bsky.social" target="_blank">
-<img src=https://img.shields.io/badge/bluesky-0285FF.svg?&style=flat&logo=bluesky&logoColor=white alt=bluesky style="margin-bottom: 5px;" />
+<div>
+<a href="https://bsky.app/profile/tahan00.bsky.social" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/bluesky-0285FF.svg?&style=flat&logo=bluesky&logoColor=white" alt="bluesky" style="margin: 10px;" />
 </a>
 
-<br/>
+<a href="https://velog.io/@tahan/posts" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Blog-000000.svg?&style=flat&logo=github&logoColor=white" alt="blog" />
+</a>
+</div>
