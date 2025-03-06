@@ -46,11 +46,11 @@
 ### 🦋Contact
 
 <div>
-<a href="https://bsky.app/profile/tahan00.bsky.social" target="_blank" style="text-decoration: none;">
+<a href="https://bsky.app/profile/tomatto0.bsky.social" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/bluesky-0285FF.svg?&style=flat&logo=bluesky&logoColor=white" alt="bluesky" style="margin: 10px;" />
 </a>
 
-<a href="https://velog.io/@tahan/posts" target="_blank" style="text-decoration: none;">
+<a href="https://velog.io/@tomatto0/posts" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Blog-000000.svg?&style=flat&logo=github&logoColor=white" alt="blog" />
 </a>
 </div>
